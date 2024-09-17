@@ -19,6 +19,7 @@ LICENCE: [MIT](./license.md)
 8. [Файл .gitignore](git-ignore.md)
 9. [Ветвление](vetki.md)
 10. [Культура написания коммитов](kulture.md) 
+11. [Полезная информация](dopin.md)
 
 ---
 
